@@ -1,9 +1,36 @@
 .fund{
-    display: inline-block;
-    width: 50px;
-    height: 10px;
+    display:inline-flex;
     justify-content: end;
     align-items: end;
     color: blue;
 }
+.curio{
+    display: inline-flex;
+}
 
+.arte{
+    display: inline-flex;
+}
+
+.obras{
+    display: inline-flex;
+    justify-content: right;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.slogam{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.items{
+    color: blue;
+    font-size: x-large;
+}
