@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
 .fund{
     display:inline-flex;
     justify-content: end;
     align-items: end;
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 .curio{
     display: inline-flex;
@@ -31,6 +33,15 @@ h1{
 }
 
 .items{
-    color: blue;
+    color: rgb(0, 0, 0);
     font-size: x-large;
+    display: flex;
+    /* background-image: url(images.jpg); */
+    gap: 20px;
+}
+
+body{
+     font-family: "Bungee", sans-serif;
+
+
 }
