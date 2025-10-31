@@ -3,14 +3,16 @@
 *{
     margin: 0;
 }
-.fund{
-    display:inline-flex;
-    justify-content: ;
-    align-items: end;
-    color: rgb(255, 255, 255);
+
+a{
+    text-decoration:none;
+
+
+
 }
 .curio{
     display: inline-flex;
+
 }
 
 .arte{
@@ -32,13 +34,15 @@ h1{
 .slogam{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center
 }
 
 .items{
-    color: rgb(255, 254, 254);
-    font-size: large;
+    color: rgb(255, 255, 255);
+    font-size:large;
     display: flex;
+    justify-content: right;
+    align-items: center;
     background-image: url(navbarGrafite.jpg);
     gap: 20px;
     height: 200px;
@@ -46,5 +50,9 @@ h1{
 
 body{
      font-family: "Bungee", sans-serif;
+    
 }
 
+.curio{
+
+}
