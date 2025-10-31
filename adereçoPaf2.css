@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+*{
+    margin: 0;
+}
+.fund{
+    display:inline-flex;
+    justify-content: end;
+    align-items: end;
+    color: rgb(255, 255, 255);
+}
+.curio{
+    display: inline-flex;
+}
+
+.arte{
+    display: inline-flex;
+}
+
+.obras{
+    display: inline-flex;
+    justify-content: right;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.slogam{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.items{
+    color: rgb(255, 254, 254);
+    font-size: x-large;
+    display: flex;
+    background-image: url(navbarGrafite.jpg);
+    gap: 20px;
+    height: 200px;
+}
+
+body{
+     font-family: "Bungee", sans-serif;
+}
+
+.home{
+    
+
+
+
+}

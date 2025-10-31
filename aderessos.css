@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
 
+*{
+    margin: 0;
+}
 .fund{
     display:inline-flex;
-    justify-content: end;
+    justify-content: ;
     align-items: end;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 .curio{
     display: inline-flex;
@@ -33,15 +36,15 @@ h1{
 }
 
 .items{
-    color: rgb(0, 0, 0);
-    font-size: x-large;
+    color: rgb(255, 254, 254);
+    font-size: large;
     display: flex;
-    /* background-image: url(images.jpg); */
+    background-image: url(navbarGrafite.jpg);
     gap: 20px;
+    height: 200px;
 }
 
 body{
      font-family: "Bungee", sans-serif;
-
-
 }
+
